@@ -1,0 +1,54 @@
+*{
+
+
+}
+root{}
+
+
+
+h1{text-align: center;
+    color: #53e90def;
+    text-shadow: #181818;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border-style: double;
+background-color: rgb(80, 77, 71);}
+
+
+p.para{color:rgb(233, 241, 248);}
+
+    #main{color: darkorange;
+    text-align: center;}
+
+    body{
+         font-family:arial;background-color:blueviolet;padding: 20px;;
+    }
+
+    h2{color: darkred;
+    }
+
+
+    .point{
+        background-color: rgb(93, 230, 230);
+    }
+    a:link{ color:red;}
+    
+    a:visted{color:white;}
+    a:hover{color:orange;}
+    a:active{color:darkgreen;}
+    a:foucs{color:black;}
+    .club{
+        background-color: beige;
+    }
+    
+    h{color: #357438b7; }
+    
+    p
+    {color: #e90d9f;}
+
+    img{border-radius: 30%;
+        object-fit: contain;
+    background-color: #2e282c;
+border-top-right-radius: 7%;
+border-bottom-left-radius: 7%;}
+
+
